@@ -54,6 +54,3 @@ Kepo? Buka Issues atau kirim PR. Kalau mau ngobrol lebih detail chat whatsapp
 
 
 ---
-
-README ini dibuat simple, rapi, dan gampang dibaca. Mau gue tambahin badge, contoh config lebih rinci, atau versi bahasa Inggris?
-
