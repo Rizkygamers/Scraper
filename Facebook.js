@@ -1,6 +1,8 @@
-// BY RIZKY
-// SRC DANZ THUMBNAIL
-// JANGAN HAPUS WM INI YA KONTOL
+/*
+BY RIZKY
+SRC DANZ THUMBNAIL
+JANGAN HAPUS WM INI YA KONTOL
+*/
 
 import axios from 'axios';
 import * as cheerio from "cheerio";
