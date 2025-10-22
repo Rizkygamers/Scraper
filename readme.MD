@@ -34,7 +34,7 @@ Gunakan proxy jika perlu scraping skala besar.
 
 🤝 Kontribusi
 
-Mau kontribusi? Asik. Fork repo, buat branch fitur (feature/namamu), lalu kirim PR. Tambahin juga testing singkat dan dokumentasi singkat di examples/.
+Mau kontribusi? Asik. Fork repo, buat branch fitur (feature/namamu), lalu kirim PR.
 
 
 ---
